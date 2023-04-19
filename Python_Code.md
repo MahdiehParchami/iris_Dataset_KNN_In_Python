@@ -25,7 +25,7 @@ import plotly.graph_objs as go
 ```python
 # loading the data
 
-df_iris = pd.read_csv('D:/Mahdieh_CourseUniversity/University_courses/ALY6020\Module_1/Project/MidWeek/iris.csv')
+df_iris = pd.read_csv('D:/iris.csv')
 df_iris
 ```
 
